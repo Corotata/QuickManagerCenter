@@ -1,0 +1,19 @@
+# 公有仓库
+#source 'https://github.com/CocoaPods/Specs.git'
+#source 'https://cdn.cocoapods.org/'
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+
+## 私有仓库
+source 'http://git.lianheng.com.cn/iOS/LianHengSpecs.git'
+
+use_frameworks!
+
+target 'QuickManagerCenter_Example' do
+  pod 'QuickManagerCenter', :path => '../'
+
+  target 'QuickManagerCenter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
