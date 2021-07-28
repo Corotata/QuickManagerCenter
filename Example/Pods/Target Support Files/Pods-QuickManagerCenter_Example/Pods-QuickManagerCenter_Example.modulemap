@@ -1,0 +1,6 @@
+framework module Pods_QuickManagerCenter_Example {
+  umbrella header "Pods-QuickManagerCenter_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

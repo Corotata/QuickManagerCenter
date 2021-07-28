@@ -1,0 +1,6 @@
+framework module QuickManagerCenter {
+  umbrella header "QuickManagerCenter-umbrella.h"
+
+  export *
+  module * { export * }
+}

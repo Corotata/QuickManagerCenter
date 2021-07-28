@@ -1,0 +1,16 @@
+PODS:
+  - QuickManagerCenter (0.1.0)
+
+DEPENDENCIES:
+  - QuickManagerCenter (from `../`)
+
+EXTERNAL SOURCES:
+  QuickManagerCenter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QuickManagerCenter: a86763b3a59c9a7ce811d14e448192f65138766f
+
+PODFILE CHECKSUM: ab1a2dadbcdbf8fe20d7b3e55d56bbc3c15685aa
+
+COCOAPODS: 1.10.0
