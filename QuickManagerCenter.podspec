@@ -26,7 +26,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'corotata' => 'corotata@qq.com' }
-  s.source           = { :git => 'http://git.lianheng.com.cn/Swift/QuickManagerCenter.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Corotata/QuickManagerCenter.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.pod_target_xcconfig = {'DEFINES_MODULE' => 'YES' }
   s.ios.deployment_target = '12.0'
