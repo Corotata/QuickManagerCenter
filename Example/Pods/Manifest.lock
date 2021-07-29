@@ -1,5 +1,5 @@
 PODS:
-  - QuickManagerCenter (0.1.0)
+  - QuickManagerCenter (1.0.0)
 
 DEPENDENCIES:
   - QuickManagerCenter (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  QuickManagerCenter: a86763b3a59c9a7ce811d14e448192f65138766f
+  QuickManagerCenter: 808c24521daf4a4aaf4b4dc0c1c394af05fb5e88
 
 PODFILE CHECKSUM: ab1a2dadbcdbf8fe20d7b3e55d56bbc3c15685aa
 
