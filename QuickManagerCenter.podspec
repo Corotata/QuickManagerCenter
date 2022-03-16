@@ -22,7 +22,7 @@ A short description of QuickManagerCenter.
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'http://git.lianheng.com.cn/Swift/QuickManagerCenter'
+  s.homepage         = 'https://github.com/Corotata/QuickManagerCenter'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'corotata' => 'corotata@qq.com' }
