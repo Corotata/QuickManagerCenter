@@ -13,10 +13,12 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        _ = GetManager(type: MessageManager.self)
+        _ = GetManager(type: MessageManager.self,tagId: "123123",params: ["key":"3333"])
         _ = GetManager(type: SessionManager.self)
         
+        let array = ManagerCenter.default.dict
         
+        print(array)
         // Do any additional setup after loading the view, typically from a nib.
     }
 
